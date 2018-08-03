@@ -1,0 +1,20 @@
+{
+    "name": "caoxl/caoxl",
+    "description": "caoxl_package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SoulMate94.",
+            "email": "code0809@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "APP\\": "src/"
+        }
+    }
+}
